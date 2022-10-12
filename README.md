@@ -86,7 +86,7 @@ El proyecto consistirá en realizar una aplicación web en React, respetando el 
 
 [Martin Larossa](https://github.com/Martin8398)
 
-[Julieta Marcer](https://github.com/jmercer)
+[Julieta Marcer](https://github.com/jmarcer)
 
 ---
 
